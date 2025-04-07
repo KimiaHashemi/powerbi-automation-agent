@@ -38,10 +38,10 @@ A comprehensive Python-based desktop application that automates the entire data 
 ## Screenshots
 
 ### Database Connection
-![Database Connection](https://raw.githubusercontent.com/username/powerbi-automation-agent/main/ui_previews/connection_tab.png)
+![Database Connection](https://github.com/KimiaHashemi/powerbi-automation-agent/blob/8b5d3bce7b0cd4e6a3e2b30bf2105f0aae5d975a/Screenshot%20from%202025-04-07%2021-26-01.png)
 
 ### Data Extraction
-![Data Extraction](https://raw.githubusercontent.com/username/powerbi-automation-agent/main/ui_previews/data_tab.png)
+![Data Extraction](https://github.com/KimiaHashemi/powerbi-automation-agent/blob/8b5d3bce7b0cd4e6a3e2b30bf2105f0aae5d975a/Screenshot%20from%202025-04-07%2021-25-57.png)
 
 ### Data Transformation
 ![Data Transformation](https://github.com/KimiaHashemi/powerbi-automation-agent/blob/0145363b42c729820eec473ae0131fe55e3ebd3b/Screenshot%20from%202025-04-07%2021-12-34.png)

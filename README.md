@@ -1,6 +1,6 @@
 # Power BI Automation Agent
 
-![Power BI Automation Agent Banner]([https://raw.githubusercontent.com/username/powerbi-automation-agent/main/ui_previews/powerbi_tab.png](https://github.com/KimiaHashemi/powerbi-automation-agent/blob/27c4c626422559e267d6f4f77075c764a4e6eb99/Screencastfrom04-07-2025090635PM-ezgif.com-video-to-gif-converter.gif))
+![Power BI Automation Agent Banner](https://github.com/KimiaHashemi/powerbi-automation-agent/blob/27c4c626422559e267d6f4f77075c764a4e6eb99/Screencastfrom04-07-2025090635PM-ezgif.com-video-to-gif-converter.gif)
 
 A comprehensive Python-based desktop application that automates the entire data pipeline from SQL database extraction to Power BI reporting and SSRS deployment.
 

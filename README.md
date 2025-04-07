@@ -44,13 +44,13 @@ A comprehensive Python-based desktop application that automates the entire data 
 ![Data Extraction](https://raw.githubusercontent.com/username/powerbi-automation-agent/main/ui_previews/data_tab.png)
 
 ### Data Transformation
-![Data Transformation](https://raw.githubusercontent.com/username/powerbi-automation-agent/main/ui_previews/transform_tab.png)
+![Data Transformation](https://github.com/KimiaHashemi/powerbi-automation-agent/blob/0145363b42c729820eec473ae0131fe55e3ebd3b/Screenshot%20from%202025-04-07%2021-12-34.png)
 
 ### Power BI Integration
-![Power BI Integration](https://raw.githubusercontent.com/username/powerbi-automation-agent/main/ui_previews/powerbi_tab.png)
+![Power BI Integration](https://github.com/KimiaHashemi/powerbi-automation-agent/blob/0145363b42c729820eec473ae0131fe55e3ebd3b/Screenshot%20from%202025-04-07%2021-12-47.png)
 
 ### SSRS Deployment
-![SSRS Deployment](https://raw.githubusercontent.com/username/powerbi-automation-agent/main/ui_previews/ssrs_tab.png)
+![SSRS Deployment](https://github.com/KimiaHashemi/powerbi-automation-agent/blob/0145363b42c729820eec473ae0131fe55e3ebd3b/Screenshot%20from%202025-04-07%2021-13-12.png)
 
 ### Pipeline Automation
 ![Pipeline Automation](https://github.com/KimiaHashemi/powerbi-automation-agent/blob/ec9ab0523236553aa46dfa1a99ea5d74fa1b4424/Screenshot%20from%202025-04-07%2021-13-41.png)

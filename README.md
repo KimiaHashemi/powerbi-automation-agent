@@ -53,7 +53,7 @@ A comprehensive Python-based desktop application that automates the entire data 
 ![SSRS Deployment](https://raw.githubusercontent.com/username/powerbi-automation-agent/main/ui_previews/ssrs_tab.png)
 
 ### Pipeline Automation
-![Pipeline Automation](https://raw.githubusercontent.com/username/powerbi-automation-agent/main/ui_previews/pipeline_tab.png)
+![Pipeline Automation](https://github.com/KimiaHashemi/powerbi-automation-agent/blob/ec9ab0523236553aa46dfa1a99ea5d74fa1b4424/Screenshot%20from%202025-04-07%2021-13-41.png)
 
 ## Installation
 

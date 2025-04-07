@@ -1,0 +1,16 @@
+{
+    "sql_query": "SELECT * FROM [TableName]",
+    "transformations": [
+        "remove_duplicates",
+        "fill_missing_values",
+        "calculate_revenue_metrics"
+    ],
+    "dataset_name": "Pipeline_Dataset",
+    "report_name": "Pipeline_Report",
+    "ssrs_path": "/Reports/PipelineReport",
+    "schedule": {
+        "enabled": false,
+        "frequency": "Daily",
+        "time": "02:00"
+    }
+}
